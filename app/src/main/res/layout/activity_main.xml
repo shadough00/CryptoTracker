@@ -53,7 +53,7 @@
         android:layout_marginTop="672dp"
         android:layout_marginEnd="303dp"
         android:layout_marginBottom="11dp"
-        android:backgroundTint="@android:color/holo_blue_dark"
+        android:backgroundTint="@color/teal_700"
         android:fontFamily="casual"
         android:text="Guide"
         android:textColor="@color/white"
