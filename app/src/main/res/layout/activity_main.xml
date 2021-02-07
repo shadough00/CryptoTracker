@@ -28,7 +28,7 @@
 
     <Switch
         android:id="@+id/switch1"
-        android:layout_width="117dp"
+        android:layout_width="130dp"
         android:layout_height="50dp"
         android:layout_marginStart="147dp"
         android:layout_marginTop="82dp"
@@ -40,36 +40,19 @@
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.538"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="15dp"
-        android:layout_marginTop="672dp"
-        android:layout_marginEnd="303dp"
-        android:layout_marginBottom="11dp"
-        android:backgroundTint="@color/teal_700"
-        android:fontFamily="casual"
-        android:text="Guide"
-        android:textColor="@color/white"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <Switch
         android:id="@+id/switch2"
-        android:layout_width="117dp"
+        android:layout_width="130dp"
         android:layout_height="50dp"
-        android:layout_marginStart="147dp"
-        android:layout_marginTop="139dp"
-        android:layout_marginEnd="147dp"
-        android:layout_marginBottom="542dp"
+        android:layout_marginStart="141dp"
+        android:layout_marginTop="144dp"
+        android:layout_marginEnd="140dp"
+        android:layout_marginBottom="537dp"
         android:fontFamily="casual"
         android:text="Bitcoin"
         android:textColor="#FFFFFF"
@@ -81,7 +64,7 @@
 
     <Switch
         android:id="@+id/switch3"
-        android:layout_width="117dp"
+        android:layout_width="130dp"
         android:layout_height="50dp"
         android:layout_marginStart="147dp"
         android:layout_marginTop="182dp"
@@ -98,7 +81,7 @@
 
     <Switch
         android:id="@+id/switch4"
-        android:layout_width="117dp"
+        android:layout_width="130dp"
         android:layout_height="50dp"
         android:layout_marginStart="147dp"
         android:layout_marginTop="222dp"
@@ -115,7 +98,7 @@
 
     <Switch
         android:id="@+id/switch5"
-        android:layout_width="117dp"
+        android:layout_width="130dp"
         android:layout_height="50dp"
         android:layout_marginStart="147dp"
         android:layout_marginTop="261dp"
@@ -132,7 +115,7 @@
 
     <Switch
         android:id="@+id/switch6"
-        android:layout_width="117dp"
+        android:layout_width="130dp"
         android:layout_height="50dp"
         android:layout_marginStart="147dp"
         android:layout_marginTop="298dp"
